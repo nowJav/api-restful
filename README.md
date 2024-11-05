@@ -31,10 +31,3 @@ Interpreta las entradas enviadas por el usuario, las convierte en comandos para 
 
 ```bash
 git clone [URL del Repositorio]
-cd [Nombre del Repositorio]
-# Instalar dependencias
-composer install
-# Configurar variables de entorno
-cp .env.example .env
-# Ejecutar migraciones (Opcional)
-php artisan migrate
