@@ -1,4 +1,4 @@
-# API RESTful para [Nombre del Proyecto]
+# API RESTful para Multiples Aplicaciones
 
 Bienvenido al repositorio oficial de la API RESTful para Multiples Aplicaciones. Este proyecto ha sido desarrollado utilizando PHP en un patrón de arquitectura Modelo-Vista-Controlador (MVC), lo que garantiza una estructura de código clara y una fácil mantenibilidad.
 
